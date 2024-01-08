@@ -1,0 +1,22 @@
+{
+  "name": "assessment02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21355882/Assessment02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21355882/Assessment02/issues"
+  },
+  "homepage": "https://github.com/IT21355882/Assessment02#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.7"
+  }
+}
